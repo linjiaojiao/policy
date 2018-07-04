@@ -1,5 +1,5 @@
 
-#####如有任何问题 请联系ainanjin2017@163.com
+#####如有任何问题 请联系linjiaojiao2017@163.com
 
 # 《Esport Game Tycoon》-Policy
 Here at 《Esport Game Tycoon》 we want to make content safe for use by people of all ages, especially young children. For this reason all of our apps and games are built around a premium pricing structure, with no ad services or data collection. To the best of our knowledge, the following statements are true for all of our products across all platforms:
